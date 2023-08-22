@@ -5,7 +5,7 @@
 # Live version
 click [here](https://lordgg007.github.io/intro-to-css/)
 
-#Getting Started
+# Getting Started
 
 Clone this repo on your local machine
 
@@ -27,13 +27,13 @@ letme know [here](https://github.com/Lordgg007/intro-to-css/issues)
 # Show your support
 Give a ⭐️ if you like this project!
 
-#Acknowledgments
+# Acknowledgments
 
 My Teacher: [Aristides](https://github.com/aristides1000)
 Google: for letting us find crucial information in order to create this project.
 
-#📝 License
+# 📝 License
 
-This project is[CC0-1.0]()licensed.
+This project is [CC0-1.0](LICENSE) licensed.
 
 
