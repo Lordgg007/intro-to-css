@@ -1,0 +1,17 @@
+body {
+    background-color: white;
+}
+
+.rt {
+    background-color: black;
+    color: white;
+    font-size: 10rem;
+    border: 3cap;
+}
+
+.tt {
+    background-color: yellow;
+    color: black;
+    font-size: 10rem;
+
+}
